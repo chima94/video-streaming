@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Test urls",
+    "samples": [
+      {
+        "name": "WV: Clear SD & HD (MP4,H264)",
+        "uri": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd"
+      },
+      {
+        "name": "WV: Clear SD (MP4,H264)",
+        "uri": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears_sd.mpd"
+      },
+      {
+        "name": "WV: Clear HD (MP4,H264)",
+        "uri": "https://firebasestorage.googleapis.com/v0/b/fir-uploadimage-30209.appspot.com/o/uploads%2F360p%20-%20Firebase%20Android%20Tutorial%20%5B55%5D%20%20Authenticate%20Users%20Using%20Email%20and%20Password%20-%20YouTube.mp4?alt=media&token=7ae7b75b-e173-4b6a-95f2-90977e0367bf"
+      },
+      {
+        "name": "WV: Clear UHD (MP4,H264)",
+        "uri": "https://firebasestorage.googleapis.com/v0/b/fir-uploadimage-30209.appspot.com/o/uploads%2FThe.Deuce.S01E02.720p.WEB-DL.2CH.x265.HEVC.Funsaber_Net.mkv?alt=media&token=0dbf0650-4f8e-4c46-a219-e33a7f821fd0"
+      }
+
+    ]
+  }
+
+]
